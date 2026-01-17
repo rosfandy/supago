@@ -47,7 +47,6 @@ func Run(name *string) (*query.TableSchemaResult, error) {
 	return result, nil
 }
 
-// Setup creates all necessary database functions using Management API
 func Setup() error {
 	cfg, err := config.LoadConfig(nil)
 	if err != nil {
@@ -125,7 +124,6 @@ func Setup() error {
 	return nil
 }
 
-// EnsureFunctions checks if necessary functions exist (lightweight check)
 func EnsureFunctions() error {
 	cfg, err := config.LoadConfig(nil)
 	if err != nil {
@@ -149,7 +147,6 @@ func EnsureFunctions() error {
 	return nil
 }
 
-// CheckSetup verifies if the database is properly set up
 func CheckSetup() error {
 	cfg, err := config.LoadConfig(nil)
 	if err != nil {
