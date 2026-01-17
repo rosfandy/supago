@@ -38,7 +38,6 @@ func PullCommands() *cobra.Command {
 		},
 	}
 
-	// Setup subcommand
 	setupCmd := &cobra.Command{
 		Use:     "setup",
 		Short:   "Setup database functions",
@@ -56,7 +55,6 @@ func PullCommands() *cobra.Command {
 		},
 	}
 
-	// Check subcommand
 	checkCmd := &cobra.Command{
 		Use:     "check",
 		Short:   "Check database setup",
