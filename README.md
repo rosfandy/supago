@@ -9,11 +9,13 @@
   <img src="https://img.shields.io/badge/Status-Under%20Construction-yellow" />
   <!-- <img src="https://img.shields.io/github/license/ngobam/supago" /> -->
   <!-- <img src="https://img.shields.io/github/actions/workflow/status/ngobam/supago/ci.yml?label=CI" /> -->
-  <img src="https://img.shields.io/github/issues/ngobam/supago" />
-  <img src="https://img.shields.io/github/issues-pr/ngobam/supago" />
+  <!-- <img src="https://img.shields.io/github/issues/ngobam/supago" /> -->
+  <!-- <img src="https://img.shields.io/github/issues-pr/ngobam/supago" /> -->
+  <img src="https://img.shields.io/badge/Changelog-Available-blue" />
   <img src="https://img.shields.io/github/last-commit/ngobam/supago" />
-  <img src="https://img.shields.io/badge/Supabase-Ready-3ECF8E?logo=supabase&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Supabase-Ready-3ECF8E?logo=supabase&logoColor=white" /> -->
 </p>
+
 
 
 ## Introduction
